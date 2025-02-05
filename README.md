@@ -15,5 +15,6 @@ Bu proje, kişisel web sitemi oluşturmak için geliştirdiğim bir HTML, CSS ve
 - **HTML5** – Sayfa yapısını oluşturmak için  
 - **CSS3** – Sayfa tasarımını şekillendirmek için  
 - **FontAwesome** – Sosyal medya ikonları için  
+![alt text](https://github.com/NurcanDemir/portfolio-website/blob/master/ekran görüntüsü  "Demo Image")
 
 
